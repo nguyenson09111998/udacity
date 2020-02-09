@@ -1,0 +1,1 @@
+INSERT INTO price (currency, price, vehicle_id) VALUES ('EUR', 9999.99, 3);
